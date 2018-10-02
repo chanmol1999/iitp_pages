@@ -1,6 +1,6 @@
 # Links
 
-## Facebook
+### Facebook
 
 ### Fests
 - https://www.facebook.com/anwesha.iitpatna/
@@ -26,7 +26,7 @@
 - https://www.facebook.com/iitpatna.hpvc/
 
 
-### Sports Clubs
+### Sport Clubs
 - https://www.facebook.com/SportsIITPatna/
 - https://www.facebook.com/iitpatnafc/
 - https://www.facebook.com/cricketiitp/
